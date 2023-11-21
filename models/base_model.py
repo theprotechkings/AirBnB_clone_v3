@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This is  base model class for AirBnB"""
+"""This is thei base model class for AirBnB"""
 from sqlalchemy.ext.declarative import declarative_base
 import uuid
 import models
